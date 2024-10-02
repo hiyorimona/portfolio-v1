@@ -1,1 +1,11 @@
-{"languages":["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg","https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg","https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"]}
+{"languages":[
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg",
+  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+
+]}

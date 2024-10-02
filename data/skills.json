@@ -1,1 +1,11 @@
-{"skill":[{"name":"Data Engineering, AI","description":"Draft 1","projects_completed":"5"},{"name":"Data Science","description":"DRAFT 2","projects_completed":"3"},{"name":"Analytics Translator","description":"DRAFT 3","projects_completed":"2"}]}
+{"skill":
+[{"name":"Data Science",
+  "description":"Draft 1",
+  "projects_completed":"5"},
+  {"name":"Data Engineer",
+    "description":"DRAFT 2",
+    "projects_completed":"3"},
+  {"name":"Analytics Translator",
+    "description":"DRAFT 3",
+    "projects_completed":"2"}
+]}

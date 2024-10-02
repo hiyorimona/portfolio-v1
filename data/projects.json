@@ -1,16 +1,23 @@
 {
     "projects":[
         {
-            "title": "Some dummy title",
+            "title": "PyRootMancer",
             "imageUrl": "",
-            "project_url": "",
+            "project_url": "https://github.com/hiyorimona/PyRootMancer",
             "description": "some basi project description",
             "tags": [ "react", "postgresql", "nodejs" ]
         },
         {
-            "title": "Some dummy title",
+            "title": "Emotion Classification",
             "imageUrl": "",
-            "project_url": "",
+            "project_url": "https://github.com/hiyorimona/Emotion-Classification",
+            "description": "some basi project description",
+            "tags": [ "react", "postgresql", "nodejs" ]
+        },
+        {
+            "title": "Facility domain research",
+            "imageUrl": "",
+            "project_url": "https://github.com/hiyorimona/Facility-Reseach-Analysis",
             "description": "some basi project description",
             "tags": [ "react", "postgresql", "nodejs" ]
         }
